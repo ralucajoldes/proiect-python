@@ -1,0 +1,1 @@
+{"1": {"py/object": "DOMAIN.tranzactie.Tranzactie", "_Entitate__id_entitate": "1", "_Tranzactie__id_tranzactie": "1", "_Tranzactie__id_medicament": "1", "_Tranzactie__id_card": "0", "_Tranzactie__nr_bucati": 1235, "_Tranzactie__data_ora": "29.08.2019 12:13"}}
